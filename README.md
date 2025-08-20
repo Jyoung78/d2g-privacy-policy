@@ -84,6 +84,6 @@ D2G is a privacy-first application that:
 ✅ Transmits NO personal data to external servers
 ✅ Provides complete user control over data
 ✅ Follows industry best practices for privacy
+
 Your privacy is our priority. We believe the best way to protect your data is to not collect it in the first place.
-Last Updated: [Current Date]
-이 개인정보 처리방침을 GitHub Pages에 업로드하면 App Store Connect에 URL을 입력할 수 있습니다! 🎯
+Last Updated: 20th, Aug, 2025
